@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: 'NimbusSanT-ReguExte';
+    src: url(./font/NimbusSanT-ReguExte.ttf) format('ttf');
+}
+
+@font-face {
+    font-family: 'Verveine';
+    src: url(./dist/font/VerveineRegular.TTF) format('TTF');
+}
